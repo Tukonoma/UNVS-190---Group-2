@@ -3,7 +3,7 @@ gantt
     title A Gantt Diagram
     dateFormat YYYY-MM-DD
     section Week 1 Tasks
-        Researching different data centers and study the different legends for all necessary parts on Autocad          :a1, 2025-02-23, 7d
+        Week 1        :a1, 2025-02-23, 7d
        
     section Week 2 Tasks
         Week 2 :2025-03-02, 7d
