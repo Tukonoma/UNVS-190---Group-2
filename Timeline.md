@@ -4,7 +4,6 @@ gantt
     dateFormat YYYY-MM-DD
     section Week 1 Tasks
         Week 1        :a1, 2025-02-23, 7d
-       Note right of Week 1: Researching different data centers and study the different legends for all necessary parts on Autocad
 
     section Week 2 Tasks
         Week 2 :2025-03-02, 7d
@@ -38,3 +37,5 @@ gantt
 
 
 ```
+
+#Note right of Week 1
